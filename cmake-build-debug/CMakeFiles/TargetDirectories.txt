@@ -1,0 +1,3 @@
+C:/Users/Triton/CLionProjects/Jac/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Triton/CLionProjects/Jac/cmake-build-debug/CMakeFiles/Jac.dir
+C:/Users/Triton/CLionProjects/Jac/cmake-build-debug/CMakeFiles/edit_cache.dir
